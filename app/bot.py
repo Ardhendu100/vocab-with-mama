@@ -175,6 +175,16 @@ async def today(update: Update, context: ContextTypes.DEFAULT_TYPE):
         parse_mode="HTML",
     )
 
+async def send_lesson_to_user(application, chat_id, lesson):
+    """Send a vocabulary lesson to one Telegram user."""
+
+    message = format_lesson(lesson)
+
+    await application.bot.send_message(
+        chat_id=chat_id,
+        text=message,
+        parse_mode="HTML",
+    )
 
 def create_bot_application():
     """Create and configure the Telegram bot."""
