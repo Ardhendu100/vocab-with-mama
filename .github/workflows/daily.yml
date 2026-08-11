@@ -2,9 +2,9 @@ name: Daily Vocabulary
 
 on:
   schedule:
-    # Runs every day at 12:00 UTC
-    # 12:00 UTC = 5:30 PM IST
-    - cron: "0 14 * * *"
+  # Runs every day at 11:09 AM IST
+  # 11:09 AM IST = 05:39 AM UTC
+  - cron: "39 5 * * *"
 
   workflow_dispatch:
 
