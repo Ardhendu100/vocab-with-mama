@@ -10,5 +10,6 @@ dependencies = [
     "pydantic>=2.13.4",
     "pydantic-settings>=2.15.0",
     "python-dotenv>=1.2.2",
+    "python-telegram-bot>=22.8",
     "uvicorn>=0.52.1",
 ]
