@@ -1,4 +1,23 @@
 {
-  "word": null,
-  "lesson": null
+  "date": "2026-08-11",
+  "word": "argument",
+  "lesson": {
+    "word": "argument",
+    "pronunciation": "AAR-gyoo-ment",
+    "meaning": "A disagreement, usually spoken, or a set of reasons given to support an idea or opinion.",
+    "examples": [
+      "My siblings and I had a small argument about who should choose the movie.",
+      "During the meeting, there was a strong argument for delaying the project by one week.",
+      "I tried to avoid an argument with my colleague by calmly explaining my point of view.",
+      "The manager presented a compelling argument to the board for increasing the department's budget.",
+      "It's important to prepare a solid argument when you need to convince someone in a professional setting."
+    ],
+    "synonyms": [
+      "disagreement",
+      "dispute",
+      "debate",
+      "contention"
+    ],
+    "memory_tip": "Remember, 'argument' can mean both a verbal disagreement AND a strong reason you give to support an idea. Context is key!"
+  }
 }
