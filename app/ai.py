@@ -77,6 +77,10 @@ Return exactly this JSON structure:
     response = client.models.generate_content(
         model=MODEL_NAME,
         contents=prompt,
+        config={
+            "response_mime_type": "application/json",
+            "temperature": 0.7
+        }
     )
 
     if not response.text:
@@ -85,7 +89,12 @@ Return exactly this JSON structure:
     try:
         lesson = json.loads(response.text)
     except json.JSONDecodeError as exc:
-        raise RuntimeError("AI returned invalid JSON.") from exc
+        print("Raw AI response:")
+        print(response.text)
+
+        raise RuntimeError(
+            "AI returned invalid JSON."
+        ) from exc
 
     validate_lesson(lesson, word)
 
