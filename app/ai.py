@@ -1,9 +1,13 @@
 import json
 import os
+import random
+import time
 
 from dotenv import load_dotenv
 from google import genai
 
+MAX_RETRIES = 3
+BASE_DELAY = 2
 
 load_dotenv()
 
@@ -17,9 +21,32 @@ client = genai.Client(api_key=AI_API_KEY)
 
 MODEL_NAME = "gemini-2.5-flash"
 
+def is_retryable_error(exc):
+    """Return True when an AI error is likely temporary."""
+
+    error_message = str(exc).upper()
+
+    retryable_statuses = [
+        "429",
+        "500",
+        "502",
+        "503",
+        "504",
+        "UNAVAILABLE",
+        "RESOURCE_EXHAUSTED",
+        "INTERNAL",
+        "TIMEOUT",
+        "TIMED OUT",
+        "CONNECTION",
+    ]
+
+    return any(
+        status in error_message
+        for status in retryable_statuses
+    )
 
 def generate_lesson(word):
-    """Generate a vocabulary lesson for the given word."""
+    """Generate a vocabulary lesson with exponential backoff retries."""
 
     prompt = f"""
 You are "Vocab with Mama", a friendly English vocabulary teacher.
@@ -74,32 +101,78 @@ Return exactly this JSON structure:
 }}
 """
 
-    response = client.models.generate_content(
-        model=MODEL_NAME,
-        contents=prompt,
-        config={
-            "response_mime_type": "application/json",
-            "temperature": 0.7
-        }
-    )
+    for attempt in range(MAX_RETRIES + 1):
+        try:
+            print(
+                f"Generating lesson with AI "
+                f"(attempt {attempt + 1}/{MAX_RETRIES + 1})..."
+            )
 
-    if not response.text:
-        raise RuntimeError("AI returned an empty response.")
+            response = client.models.generate_content(
+                model=MODEL_NAME,
+                contents=prompt,
+                config={
+                    "response_mime_type": "application/json",
+                    "temperature": 0.7,
+                },
+            )
 
-    try:
-        lesson = json.loads(response.text)
-    except json.JSONDecodeError as exc:
-        print("Raw AI response:")
-        print(response.text)
+            if not response.text:
+                raise RuntimeError("AI returned an empty response.")
 
-        raise RuntimeError(
-            "AI returned invalid JSON."
-        ) from exc
+            try:
+                lesson = json.loads(response.text)
+            except json.JSONDecodeError as exc:
+                print("AI returned invalid JSON.")
 
-    validate_lesson(lesson, word)
+                if attempt < MAX_RETRIES:
+                    delay = BASE_DELAY * (2 ** attempt)
+                    jitter = random.uniform(0, 0.5)  # It prevents multiple workers/services from retrying at exactly the same time
+                    total_delay = delay + jitter
 
-    return lesson
+                    print(
+                        f"Retrying in {total_delay:.2f} seconds..."
+                    )
 
+                    time.sleep(total_delay)
+                    continue
+
+                print("Raw AI response:")
+                print(response.text)
+
+                raise RuntimeError(
+                    "AI returned invalid JSON after all retries."
+                ) from exc
+
+            validate_lesson(lesson, word)
+
+            print("AI lesson generated successfully.")
+
+            return lesson
+
+        except Exception as exc:
+            if not is_retryable_error(exc):
+                raise
+
+            if attempt == MAX_RETRIES:
+                print(
+                    f"AI request failed after "
+                    f"{MAX_RETRIES + 1} attempts."
+                )
+                raise
+
+            delay = BASE_DELAY * (2 ** attempt)
+            jitter = random.uniform(0, 0.5)
+            total_delay = delay + jitter
+
+            print(f"AI request failed: {exc}")
+            print(
+                f"Retrying in {total_delay:.2f} seconds..."
+            )
+
+            time.sleep(total_delay)
+
+    raise RuntimeError("AI generation failed.")
 
 def validate_lesson(lesson, expected_word):
     """Validate the AI-generated vocabulary lesson."""

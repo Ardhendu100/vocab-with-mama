@@ -2,6 +2,9 @@ import asyncio
 import json
 from datetime import date
 from pathlib import Path
+import random
+
+from telegram.error import NetworkError, RetryAfter, TimedOut
 
 from ai import generate_lesson
 from bot import (
@@ -19,6 +22,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 LATEST_FILE = BASE_DIR / "data" / "latest.json"
 
+MAX_RETRIES = 3
+BASE_DELAY = 2
 
 def load_latest():
     """Load the latest generated lesson."""
@@ -51,6 +56,54 @@ def lesson_already_generated():
     data = load_latest()
 
     return data.get("date") == date.today().isoformat()
+
+async def initialize_telegram(application):
+    """Initialize Telegram application with exponential backoff."""
+
+    for attempt in range(MAX_RETRIES + 1):
+        try:
+            print(
+                f"Initializing Telegram "
+                f"(attempt {attempt + 1}/{MAX_RETRIES + 1})..."
+            )
+
+            await application.initialize()
+
+            print("Telegram initialized successfully.")
+
+            return
+
+        except RetryAfter as exc:
+            if attempt == MAX_RETRIES:
+                raise
+
+            delay = exc.retry_after
+
+            print(
+                f"Telegram rate limit. "
+                f"Retrying in {delay} seconds..."
+            )
+
+            await asyncio.sleep(delay)
+
+        except (TimedOut, NetworkError) as exc:
+            if attempt == MAX_RETRIES:
+                print(
+                    "Telegram initialization failed after "
+                    f"{MAX_RETRIES + 1} attempts."
+                )
+                raise
+
+            delay = BASE_DELAY * (2 ** attempt)
+            jitter = random.uniform(0, 0.5)
+            total_delay = delay + jitter
+
+            print(f"Telegram initialization failed: {exc}")
+            print(
+                f"Retrying in {total_delay:.2f} seconds..."
+            )
+
+            await asyncio.sleep(total_delay)
 
 
 async def send_daily_lesson():
@@ -117,7 +170,7 @@ async def send_daily_lesson():
 
     application = create_bot_application()
 
-    await application.initialize()
+    await initialize_telegram(application)
 
     all_sent = True
 
