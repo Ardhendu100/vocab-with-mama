@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-13",
-  "word": "professional",
+  "date": "2026-08-12",
+  "word": "measurement",
   "lesson": {
-    "word": "professional",
-    "pronunciation": "pruh-FESH-uh-nul",
-    "meaning": "Someone who does a job needing special training or skill, or behaving in a serious and suitable way for work.",
+    "word": "measurement",
+    "pronunciation": "MEZH-er-ment",
+    "meaning": "The size, amount, or extent of something, found by using a standard unit.",
     "examples": [
-      "She gave a very professional presentation at the conference.",
-      "Always dress in professional attire when you meet new clients.",
-      "He handled the difficult customer complaint in a calm and professional manner.",
-      "Our team needs a professional photographer for the company event.",
-      "Even when things are stressful, it's important to remain professional."
+      "Please double-check the measurements for the new office desk to ensure it fits perfectly.",
+      "Accurate measurements are crucial when designing software interfaces for different screen sizes.",
+      "Before ordering new blinds, take careful measurements of each window in the living room.",
+      "The project manager requested precise measurements of our team's progress against the deadline.",
+      "We need to take a few measurements of the room to calculate how much paint we'll need."
     ],
     "synonyms": [
-      "expert",
-      "skilled",
-      "competent",
-      "businesslike"
+      "dimension",
+      "size",
+      "extent",
+      "quantification"
     ],
-    "memory_tip": "To be 'professional' means two things: being good at your job (skilled) AND acting properly at work (respectful). Think: Skill + good manners!"
+    "memory_tip": "Remember 'measurement' is about finding out 'how much' or 'how big' something is. It gives you the numbers!"
   }
 }
