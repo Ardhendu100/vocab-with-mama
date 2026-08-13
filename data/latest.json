@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-12",
-  "word": "measurement",
+  "date": "2026-08-13",
+  "word": "require",
   "lesson": {
-    "word": "measurement",
-    "pronunciation": "MEZH-er-ment",
-    "meaning": "The size, amount, or extent of something, found by using a standard unit.",
+    "word": "require",
+    "pronunciation": "ree-KWIRE",
+    "meaning": "To need something because it is essential, necessary, or compulsory.",
     "examples": [
-      "Please double-check the measurements for the new office desk to ensure it fits perfectly.",
-      "Accurate measurements are crucial when designing software interfaces for different screen sizes.",
-      "Before ordering new blinds, take careful measurements of each window in the living room.",
-      "The project manager requested precise measurements of our team's progress against the deadline.",
-      "We need to take a few measurements of the room to calculate how much paint we'll need."
+      "This new software will require some training for all employees.",
+      "Our company policy requires all expenses to be approved in advance.",
+      "The project manager said the task would require extra effort from the team.",
+      "For this visa application, you will require a valid passport and recent photographs.",
+      "A quiet environment is often required for deep concentration during work."
     ],
     "synonyms": [
-      "dimension",
-      "size",
-      "extent",
-      "quantification"
+      "need",
+      "demand",
+      "call for",
+      "necessitate"
     ],
-    "memory_tip": "Remember 'measurement' is about finding out 'how much' or 'how big' something is. It gives you the numbers!"
+    "memory_tip": "Think of 'require' when something is truly important or mandatory, often by a rule or for a serious purpose. It's a bit more formal than just 'need'!"
   }
 }
