@@ -3,6 +3,7 @@
     "argument",
     "measurement",
     "require",
-    "feature"
+    "feature",
+    "problem"
   ]
 }

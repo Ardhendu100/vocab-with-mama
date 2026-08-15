@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-14",
-  "word": "feature",
+  "date": "2026-08-15",
+  "word": "problem",
   "lesson": {
-    "word": "feature",
-    "pronunciation": "FEE-chur",
-    "meaning": "An important or noticeable part, quality, or characteristic of something.",
+    "word": "problem",
+    "pronunciation": "PROB-lem",
+    "meaning": "A difficulty or challenge that needs to be solved or dealt with.",
     "examples": [
-      "The new software has many useful features, like a dark mode option.",
-      "One key feature of our project proposal is its focus on sustainability.",
-      "What features are most important to you when buying a new smartphone?",
-      "The meeting minutes will feature all the decisions made today.",
-      "A strong team spirit is a defining feature of our department's culture."
+      "We have a small technical problem with the projector, but I think I can fix it quickly.",
+      "The biggest problem our team faces right now is meeting the tight deadline for the project.",
+      "During the meeting, we discussed potential solutions to the customer service problems.",
+      "If you encounter any problems with the new software, please report them to IT support.",
+      "Lack of clear communication can cause many problems in a big organization."
     ],
     "synonyms": [
-      "Characteristic",
-      "Aspect",
-      "Quality",
-      "Attribute"
+      "issue",
+      "challenge",
+      "difficulty",
+      "obstacle"
     ],
-    "memory_tip": "Think of 'feature' as something that 'features' prominently, meaning it stands out or is important. It's what makes something special!"
+    "memory_tip": "Remember, a 'problem' is something that needs a 'solution'. They often go together!"
   }
 }
