@@ -4,6 +4,7 @@
     "measurement",
     "require",
     "feature",
-    "problem"
+    "problem",
+    "segment"
   ]
 }

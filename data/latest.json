@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-15",
-  "word": "problem",
+  "date": "2026-08-16",
+  "word": "segment",
   "lesson": {
-    "word": "problem",
-    "pronunciation": "PROB-lem",
-    "meaning": "A difficulty or challenge that needs to be solved or dealt with.",
+    "word": "segment",
+    "pronunciation": "SEG-ment",
+    "meaning": "A distinct part or piece of something larger.",
     "examples": [
-      "We have a small technical problem with the projector, but I think I can fix it quickly.",
-      "The biggest problem our team faces right now is meeting the tight deadline for the project.",
-      "During the meeting, we discussed potential solutions to the customer service problems.",
-      "If you encounter any problems with the new software, please report them to IT support.",
-      "Lack of clear communication can cause many problems in a big organization."
+      "Let's divide our presentation into three main segments to make it easier to follow.",
+      "The company is trying to reach a new customer segment with its latest product.",
+      "We need to analyze the market segment that shows the most potential for growth.",
+      "I only caught a small news segment about the new policy this morning.",
+      "The project manager decided to break the large task into smaller, manageable segments."
     ],
     "synonyms": [
-      "issue",
-      "challenge",
-      "difficulty",
-      "obstacle"
+      "part",
+      "section",
+      "piece",
+      "portion"
     ],
-    "memory_tip": "Remember, a 'problem' is something that needs a 'solution'. They often go together!"
+    "memory_tip": "Think of a delicious orange or a cake. Each slice is a 'segment' of the whole fruit or cake!"
   }
 }
