@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-16",
-  "word": "segment",
+  "date": "2026-08-17",
+  "word": "indicate",
   "lesson": {
-    "word": "segment",
-    "pronunciation": "SEG-ment",
-    "meaning": "A distinct part or piece of something larger.",
+    "word": "indicate",
+    "pronunciation": "IN-di-kayt",
+    "meaning": "To show, point out, or suggest something clearly.",
     "examples": [
-      "Let's divide our presentation into three main segments to make it easier to follow.",
-      "The company is trying to reach a new customer segment with its latest product.",
-      "We need to analyze the market segment that shows the most potential for growth.",
-      "I only caught a small news segment about the new policy this morning.",
-      "The project manager decided to break the large task into smaller, manageable segments."
+      "The project timeline indicates that we are on schedule for completion.",
+      "Could you please indicate your preferred start date on the application form?",
+      "The market research indicates a growing demand for eco-friendly products.",
+      "During the presentation, the CEO will indicate the company's future goals.",
+      "His body language seemed to indicate he was not happy with the decision."
     ],
     "synonyms": [
-      "part",
-      "section",
-      "piece",
-      "portion"
+      "show",
+      "point out",
+      "suggest",
+      "signal"
     ],
-    "memory_tip": "Think of a delicious orange or a cake. Each slice is a 'segment' of the whole fruit or cake!"
+    "memory_tip": "Think of a car's 'indicator light' – it shows everyone which way the car is going to turn. To indicate is to show or point something out!"
   }
 }
