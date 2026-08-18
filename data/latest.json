@@ -1,23 +1,24 @@
 {
-  "date": "2026-08-17",
-  "word": "indicate",
+  "date": "2026-08-18",
+  "word": "transaction",
   "lesson": {
-    "word": "indicate",
-    "pronunciation": "IN-di-kayt",
-    "meaning": "To show, point out, or suggest something clearly.",
+    "word": "transaction",
+    "pronunciation": "trans-AK-shun",
+    "meaning": "An act of buying or selling something, or a business deal or exchange between people or companies.",
     "examples": [
-      "The project timeline indicates that we are on schedule for completion.",
-      "Could you please indicate your preferred start date on the application form?",
-      "The market research indicates a growing demand for eco-friendly products.",
-      "During the presentation, the CEO will indicate the company's future goals.",
-      "His body language seemed to indicate he was not happy with the decision."
+      "The credit card machine failed, so we couldn't complete the transaction.",
+      "Our team successfully closed a major transaction with the new client this morning.",
+      "We need to review all the documents before approving the final transaction.",
+      "Every financial transaction must be recorded accurately for auditing purposes.",
+      "Online banking makes it easy to view all your recent transactions."
     ],
     "synonyms": [
-      "show",
-      "point out",
-      "suggest",
-      "signal"
+      "deal",
+      "exchange",
+      "business",
+      "trade",
+      "purchase"
     ],
-    "memory_tip": "Think of a car's 'indicator light' – it shows everyone which way the car is going to turn. To indicate is to show or point something out!"
+    "memory_tip": "Remember, a 'transaction' is like a 'transfer of action' – something changes hands, whether it's money, goods, or services!"
   }
 }
