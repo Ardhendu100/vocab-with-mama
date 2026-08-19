@@ -1,24 +1,24 @@
 {
-  "date": "2026-08-18",
-  "word": "transaction",
+  "date": "2026-08-19",
+  "word": "merge",
   "lesson": {
-    "word": "transaction",
-    "pronunciation": "trans-AK-shun",
-    "meaning": "An act of buying or selling something, or a business deal or exchange between people or companies.",
+    "word": "merge",
+    "pronunciation": "Murj",
+    "meaning": "To bring two or more separate things together to form one single thing.",
     "examples": [
-      "The credit card machine failed, so we couldn't complete the transaction.",
-      "Our team successfully closed a major transaction with the new client this morning.",
-      "We need to review all the documents before approving the final transaction.",
-      "Every financial transaction must be recorded accurately for auditing purposes.",
-      "Online banking makes it easy to view all your recent transactions."
+      "Drivers need to be careful when they merge onto the highway.",
+      "Our two departments will merge next month, so we'll all be working in one big team.",
+      "The company decided to merge with its biggest competitor to become stronger in the market.",
+      "Can you please merge these two reports into a single document before the meeting?",
+      "We tried to merge our ideas for the new project, but some points were difficult to combine."
     ],
     "synonyms": [
-      "deal",
-      "exchange",
-      "business",
-      "trade",
-      "purchase"
+      "combine",
+      "join",
+      "unite",
+      "blend",
+      "integrate"
     ],
-    "memory_tip": "Remember, a 'transaction' is like a 'transfer of action' – something changes hands, whether it's money, goods, or services!"
+    "memory_tip": "Think of two rivers flowing into one – they merge!"
   }
 }
