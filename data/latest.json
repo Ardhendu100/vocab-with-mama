@@ -1,24 +1,23 @@
 {
-  "date": "2026-08-19",
-  "word": "merge",
+  "date": "2026-08-20",
+  "word": "involve",
   "lesson": {
-    "word": "merge",
-    "pronunciation": "Murj",
-    "meaning": "To bring two or more separate things together to form one single thing.",
+    "word": "involve",
+    "pronunciation": "in-VOLV",
+    "meaning": "To include someone or something in an activity or situation, or to require something as a necessary part or result.",
     "examples": [
-      "Drivers need to be careful when they merge onto the highway.",
-      "Our two departments will merge next month, so we'll all be working in one big team.",
-      "The company decided to merge with its biggest competitor to become stronger in the market.",
-      "Can you please merge these two reports into a single document before the meeting?",
-      "We tried to merge our ideas for the new project, but some points were difficult to combine."
+      "This new project will involve a lot of teamwork and collaboration.",
+      "I'm sorry I can't meet today; I'm involved in a long client call.",
+      "Being a team leader often involves making tough decisions.",
+      "My daily routine usually involves checking emails first thing in the morning.",
+      "She got involved in community service to help local children."
     ],
     "synonyms": [
-      "combine",
-      "join",
-      "unite",
-      "blend",
-      "integrate"
+      "include",
+      "contain",
+      "entail",
+      "require"
     ],
-    "memory_tip": "Think of two rivers flowing into one – they merge!"
+    "memory_tip": "Think of 'involve' as 'bringing IN something' or 'being a part of something'. If you are 'involved', you are 'in' the 'volve' (activity)."
   }
 }
