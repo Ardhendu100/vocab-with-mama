@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-22",
-  "word": "aware",
+  "date": "2026-08-23",
+  "word": "estimate",
   "lesson": {
-    "word": "aware",
-    "pronunciation": "uh-WARE",
-    "meaning": "Knowing or understanding a situation, fact, or feeling.",
+    "word": "estimate",
+    "pronunciation": "ES-tih-mayt",
+    "meaning": "To make a careful guess about the amount, size, or cost of something, or the guess itself.",
     "examples": [
-      "Please be aware of the new office timings starting next week.",
-      "Are you aware of the client's feedback on our latest proposal?",
-      "During the meeting, it's important to be aware of everyone's opinions.",
-      "As a manager, you must be aware of your team's workload.",
-      "I wasn't aware that the deadline had been extended."
+      "Could you estimate the total cost for this new marketing campaign?",
+      "The project manager asked for an estimate of how many hours each task would take.",
+      "I estimate we will finish the presentation by 3 PM if we work efficiently.",
+      "We need to get a written estimate from the vendor before approving the budget.",
+      "It's difficult to estimate the exact number of attendees, but I'd say around 50."
     ],
     "synonyms": [
-      "conscious",
-      "informed",
-      "knowledgeable",
-      "mindful"
+      "guess",
+      "approximate",
+      "assess",
+      "quote"
     ],
-    "memory_tip": "Think of 'aware' as having 'A-WARE-ness' – it's about 'knowing what's going on' around you or about a topic!"
+    "memory_tip": "Remember, an 'estimate' is like making a smart guess, not just a random one. You use some information to get close!"
   }
 }
