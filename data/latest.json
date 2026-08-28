@@ -1,24 +1,23 @@
 {
-  "date": "2026-08-27",
-  "word": "notion",
+  "date": "2026-08-28",
+  "word": "simultaneous",
   "lesson": {
-    "word": "notion",
-    "pronunciation": "NO-shun (like 'no' and 'shun')",
-    "meaning": "An idea, belief, or opinion, especially one that is not very clear or is widely held.",
+    "word": "simultaneous",
+    "pronunciation": "sy-mul-TAY-nee-us",
+    "meaning": "Happening or existing at the exact same time.",
     "examples": [
-      "I have a strange notion that the new marketing strategy will be very successful.",
-      "The manager dismissed the notion that we could finish the entire project in one day.",
-      "Do you have any clear notion of how much budget we have for this department?",
-      "Some people still hold the notion that working from home is less productive, but data shows otherwise.",
-      "My cousin has a romantic notion of starting his own company, but he hasn't considered the challenges yet."
+      "We need to work on multiple tasks simultaneously to meet the project deadline.",
+      "The software update allowed for simultaneous editing by different team members.",
+      "During the press conference, the news was translated into several languages simultaneously.",
+      "It's hard to listen to music and have a serious conversation simultaneously.",
+      "The company launched its new product in three different markets simultaneously."
     ],
     "synonyms": [
-      "idea",
-      "belief",
-      "concept",
-      "thought",
-      "opinion"
+      "concurrent",
+      "coinciding",
+      "synchronized",
+      "at the same time"
     ],
-    "memory_tip": "Think of a 'notion' as a 'note' or a 'thought' that pops into your mind. It's often a general idea or belief!"
+    "memory_tip": "Think of 'same time' – 'simultaneous' means things are happening at the *same time*."
   }
 }
