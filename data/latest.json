@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-31",
-  "word": "vulnerable",
+  "date": "2026-09-01",
+  "word": "handle",
   "lesson": {
-    "word": "vulnerable",
-    "pronunciation": "VULL-nuh-ruh-bul",
-    "meaning": "Easily hurt, attacked, or affected by something bad, either physically or emotionally.",
+    "word": "handle",
+    "pronunciation": "HAN-dul",
+    "meaning": "To manage, deal with, or take care of a situation, problem, or person; or to operate something.",
     "examples": [
-      "New businesses are often vulnerable to changes in the economy.",
-      "After sharing her honest feedback, she felt a bit vulnerable, wondering how others would react.",
-      "Our old server system is vulnerable to cyber attacks if we don't update its security.",
-      "Children are especially vulnerable to misinformation online, so we need to guide them carefully.",
-      "It's important to protect your personal information, as it can make you vulnerable to fraud."
+      "Could you please handle the new client's request? I'm quite busy right now.",
+      "She's very good at handling difficult customer complaints calmly and professionally.",
+      "I find it hard to handle too many tasks at once, so I prioritize them.",
+      "Remember to handle the delicate equipment with extreme care during the setup.",
+      "Who will handle the logistics for the upcoming team meeting next week?"
     ],
     "synonyms": [
-      "exposed",
-      "susceptible",
-      "at risk",
-      "defenseless"
+      "manage",
+      "deal with",
+      "tackle",
+      "cope with"
     ],
-    "memory_tip": "Think of 'vulnerable' as having a 'soft spot' or being 'open to attack'. If you're vulnerable, you're not protected."
+    "memory_tip": "Think of using your 'hands' to take control and manage a situation, just like you 'handle' an object."
   }
 }
