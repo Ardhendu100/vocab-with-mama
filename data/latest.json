@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-01",
-  "word": "handle",
+  "date": "2026-09-02",
+  "word": "sequence",
   "lesson": {
-    "word": "handle",
-    "pronunciation": "HAN-dul",
-    "meaning": "To manage, deal with, or take care of a situation, problem, or person; or to operate something.",
+    "word": "sequence",
+    "pronunciation": "SEE-kwens",
+    "meaning": "A particular order in which things happen or are arranged.",
     "examples": [
-      "Could you please handle the new client's request? I'm quite busy right now.",
-      "She's very good at handling difficult customer complaints calmly and professionally.",
-      "I find it hard to handle too many tasks at once, so I prioritize them.",
-      "Remember to handle the delicate equipment with extreme care during the setup.",
-      "Who will handle the logistics for the upcoming team meeting next week?"
+      "Please follow the correct sequence of steps to complete the task.",
+      "The team discussed the logical sequence of events for the project launch.",
+      "Could you explain the sequence of operations for this new machine?",
+      "We need to arrange the presentation slides in a clear and logical sequence.",
+      "What is the typical sequence of actions when a customer reports an issue?"
     ],
     "synonyms": [
-      "manage",
-      "deal with",
-      "tackle",
-      "cope with"
+      "order",
+      "series",
+      "progression",
+      "succession"
     ],
-    "memory_tip": "Think of using your 'hands' to take control and manage a situation, just like you 'handle' an object."
+    "memory_tip": "Think of 'sequence' as things following each other, one after another, in a specific 'order'."
   }
 }
