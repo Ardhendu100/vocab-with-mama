@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-02",
-  "word": "sequence",
+  "date": "2026-09-03",
+  "word": "implication",
   "lesson": {
-    "word": "sequence",
-    "pronunciation": "SEE-kwens",
-    "meaning": "A particular order in which things happen or are arranged.",
+    "word": "implication",
+    "pronunciation": "im-pli-KAY-shun",
+    "meaning": "A possible future effect or consequence, or something suggested without being said directly.",
     "examples": [
-      "Please follow the correct sequence of steps to complete the task.",
-      "The team discussed the logical sequence of events for the project launch.",
-      "Could you explain the sequence of operations for this new machine?",
-      "We need to arrange the presentation slides in a clear and logical sequence.",
-      "What is the typical sequence of actions when a customer reports an issue?"
+      "The manager's email had an implication that our project deadline might be extended.",
+      "Before launching the new product, we need to understand all its market implications.",
+      "His silence carried the implication that he disagreed, even though he didn't speak up.",
+      "What are the long-term implications of this decision for our team's workflow?",
+      "We need to consider the financial implications of this new investment carefully."
     ],
     "synonyms": [
-      "order",
-      "series",
-      "progression",
-      "succession"
+      "Consequence",
+      "Effect",
+      "Suggestion",
+      "Hint"
     ],
-    "memory_tip": "Think of 'sequence' as things following each other, one after another, in a specific 'order'."
+    "memory_tip": "Mama's Tip: Think of 'implication' as either 'what's hinted at' (not said directly) or 'what might happen next' because of something."
   }
 }
