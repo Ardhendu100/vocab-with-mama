@@ -23,6 +23,7 @@
     "vulnerable",
     "handle",
     "sequence",
-    "implication"
+    "implication",
+    "allowance"
   ]
 }

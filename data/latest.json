@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-03",
-  "word": "implication",
+  "date": "2026-09-04",
+  "word": "allowance",
   "lesson": {
-    "word": "implication",
-    "pronunciation": "im-pli-KAY-shun",
-    "meaning": "A possible future effect or consequence, or something suggested without being said directly.",
+    "word": "allowance",
+    "pronunciation": "uh-LAU-wuns",
+    "meaning": "A sum of money given regularly for expenses, or a permitted amount or limit of something.",
     "examples": [
-      "The manager's email had an implication that our project deadline might be extended.",
-      "Before launching the new product, we need to understand all its market implications.",
-      "His silence carried the implication that he disagreed, even though he didn't speak up.",
-      "What are the long-term implications of this decision for our team's workflow?",
-      "We need to consider the financial implications of this new investment carefully."
+      "My company provides a monthly travel allowance for employees who commute long distances.",
+      "Parents often give their children a weekly allowance to teach them about managing money.",
+      "Please check your airline ticket for the exact baggage allowance to avoid extra charges.",
+      "We need to make an allowance for potential technical issues when planning the online meeting.",
+      "The project manager made an allowance for the team's initial learning curve with the new software."
     ],
     "synonyms": [
-      "Consequence",
-      "Effect",
-      "Suggestion",
-      "Hint"
+      "stipend",
+      "grant",
+      "payment",
+      "quota"
     ],
-    "memory_tip": "Mama's Tip: Think of 'implication' as either 'what's hinted at' (not said directly) or 'what might happen next' because of something."
+    "memory_tip": "Remember, 'allowance' means something that is *allowed* to you, whether it's money for your needs or a specific limit you can use."
   }
 }
