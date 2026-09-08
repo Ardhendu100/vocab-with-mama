@@ -1,24 +1,23 @@
 {
-  "date": "2026-09-07",
-  "word": "operation",
+  "date": "2026-09-08",
+  "word": "session",
   "lesson": {
-    "word": "operation",
-    "pronunciation": "op-uh-REY-shun",
-    "meaning": "A planned activity or process, especially one that is complex or involves many steps, or the way something works.",
+    "word": "session",
+    "pronunciation": "SESH-un",
+    "meaning": "A period of time set aside for a particular activity or meeting.",
     "examples": [
-      "The marketing team is planning a new campaign operation to attract more customers.",
-      "Our company's daily operations run smoothly thanks to efficient planning.",
-      "We need to improve the operation of our customer support system to handle more calls.",
-      "The entire operation of setting up the conference took weeks of preparation.",
-      "Can you explain how the new software operation works step-by-step?"
+      "Let's schedule a training session for the new software next week.",
+      "The team had a long brainstorming session to come up with new ideas.",
+      "I have a therapy session every Tuesday morning.",
+      "The court session was postponed until tomorrow.",
+      "Our yoga instructor starts a new session for beginners next month."
     ],
     "synonyms": [
-      "process",
-      "activity",
-      "procedure",
-      "system",
-      "task"
+      "meeting",
+      "gathering",
+      "period",
+      "sitting"
     ],
-    "memory_tip": "Remember, 'operation' often refers to how something runs or a big, planned task, especially in business!"
+    "memory_tip": "Think of 'session' like a scheduled 'set time' for something important, big or small!"
   }
 }
