@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-11",
-  "word": "internal",
+  "date": "2026-09-12",
+  "word": "participant",
   "lesson": {
-    "word": "internal",
-    "pronunciation": "in-TUR-nal",
-    "meaning": "Something that is inside, within, or part of a particular group, system, or organization.",
+    "word": "participant",
+    "pronunciation": "par-TIS-uh-puhnt",
+    "meaning": "A person who takes part in an activity, event, or discussion.",
     "examples": [
-      "We need to discuss this matter with our internal team before sharing it with clients.",
-      "The company sent an internal memo about the new policy changes that affect all employees.",
-      "Her internal motivation to learn and grow is what drives her success.",
-      "This issue is an internal affair of the department, so let's resolve it ourselves first.",
-      "The system has some internal errors that need to be fixed before we launch it."
+      "All participants in the training workshop received a certificate.",
+      "We need to ensure every participant feels comfortable sharing their ideas during the meeting.",
+      "The survey asked participants for their feedback on the new company policy.",
+      "There were over 100 participants in the charity run this year.",
+      "As a key participant in the project, you'll be responsible for several important tasks."
     ],
     "synonyms": [
-      "inner",
-      "inside",
-      "within",
-      "intrinsic"
+      "attendee",
+      "contributor",
+      "member",
+      "delegate"
     ],
-    "memory_tip": "Think of 'internal' as 'inside' – it always refers to something belonging to or happening within a specific boundary or group."
+    "memory_tip": "Think of 'participate' – a participant is someone who 'participates' or takes part! They are an active part of something."
   }
 }
