@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-12",
-  "word": "participant",
+  "date": "2026-09-13",
+  "word": "presentation",
   "lesson": {
-    "word": "participant",
-    "pronunciation": "par-TIS-uh-puhnt",
-    "meaning": "A person who takes part in an activity, event, or discussion.",
+    "word": "presentation",
+    "pronunciation": "pree-zen-TAY-shun",
+    "meaning": "A formal talk or display given to an audience, or the way something is shown.",
     "examples": [
-      "All participants in the training workshop received a certificate.",
-      "We need to ensure every participant feels comfortable sharing their ideas during the meeting.",
-      "The survey asked participants for their feedback on the new company policy.",
-      "There were over 100 participants in the charity run this year.",
-      "As a key participant in the project, you'll be responsible for several important tasks."
+      "I need to finish my presentation slides for the client meeting tomorrow.",
+      "Her presentation on the quarterly sales results was very clear and informative.",
+      "The team practiced their product presentation several times before the launch event.",
+      "Could you please send me a copy of your presentation after the conference?",
+      "The visual presentation of the data made it much easier for everyone to understand."
     ],
     "synonyms": [
-      "attendee",
-      "contributor",
-      "member",
-      "delegate"
+      "talk",
+      "speech",
+      "demonstration",
+      "briefing"
     ],
-    "memory_tip": "Think of 'participate' – a participant is someone who 'participates' or takes part! They are an active part of something."
+    "memory_tip": "Think of a 'presentation' as presenting (showing) your ideas or information to others in a structured way, like unwrapping a gift for friends!"
   }
 }
