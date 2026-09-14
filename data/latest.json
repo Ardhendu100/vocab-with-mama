@@ -1,23 +1,23 @@
 {
-  "date": "2026-09-13",
-  "word": "presentation",
+  "date": "2026-09-14",
+  "word": "productivity",
   "lesson": {
-    "word": "presentation",
-    "pronunciation": "pree-zen-TAY-shun",
-    "meaning": "A formal talk or display given to an audience, or the way something is shown.",
+    "word": "productivity",
+    "pronunciation": "pruh-duk-TIV-uh-tee",
+    "meaning": "The rate at which you or a group can produce good results or complete tasks, especially in relation to the time or effort spent.",
     "examples": [
-      "I need to finish my presentation slides for the client meeting tomorrow.",
-      "Her presentation on the quarterly sales results was very clear and informative.",
-      "The team practiced their product presentation several times before the launch event.",
-      "Could you please send me a copy of your presentation after the conference?",
-      "The visual presentation of the data made it much easier for everyone to understand."
+      "Using new software helped increase our team's productivity significantly.",
+      "I try to plan my day in advance to boost my personal productivity.",
+      "Let's keep this meeting focused to improve its productivity.",
+      "The company invested in better machines to enhance factory productivity.",
+      "Working from home has actually improved my productivity for many people."
     ],
     "synonyms": [
-      "talk",
-      "speech",
-      "demonstration",
-      "briefing"
+      "efficiency",
+      "output",
+      "performance",
+      "production"
     ],
-    "memory_tip": "Think of a 'presentation' as presenting (showing) your ideas or information to others in a structured way, like unwrapping a gift for friends!"
+    "memory_tip": "Think of productivity as how much useful work you finish. The more you get done well, the higher your productivity!"
   }
 }
