@@ -39,6 +39,7 @@
     "distinct",
     "maintain",
     "decrease",
-    "recruit"
+    "recruit",
+    "success"
   ]
 }
