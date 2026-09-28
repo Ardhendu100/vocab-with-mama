@@ -46,6 +46,7 @@
     "complete",
     "revenue",
     "feasible",
-    "suggest"
+    "suggest",
+    "categorize"
   ]
 }
