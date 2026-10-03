@@ -1,24 +1,23 @@
 {
-  "date": "2026-10-02",
-  "word": "consume",
+  "date": "2026-10-03",
+  "word": "methodology",
   "lesson": {
-    "word": "consume",
-    "pronunciation": "kun-SOOM",
-    "meaning": "To use something up, eat or drink something, or to take a lot of time or energy.",
+    "word": "methodology",
+    "pronunciation": "meh-thuh-DOL-uh-jee",
+    "meaning": "The system of methods and principles used in a particular activity or field.",
     "examples": [
-      "It's important to consume enough water throughout the day to stay healthy.",
-      "Our new project will consume a significant amount of the team's time and resources.",
-      "The old machinery tends to consume too much electricity, leading to higher bills.",
-      "Customers are increasingly consuming digital content, like e-books and online courses.",
-      "Please don't consume all the printer paper; we need some for the morning meeting."
+      "Our team needs to update its methodology for project management to be more efficient.",
+      "Before we start, let's discuss the methodology we'll use for data collection.",
+      "The new research methodology has significantly improved our results.",
+      "Her teaching methodology focuses on practical examples rather than just theory.",
+      "We need to clearly define the methodology for evaluating employee performance."
     ],
     "synonyms": [
-      "use",
-      "utilize",
-      "eat",
-      "drink",
-      "spend"
+      "Approach",
+      "Method",
+      "System",
+      "Procedure"
     ],
-    "memory_tip": "Think of 'consuming' a big meal or 'consuming' a lot of data on your phone. It means you are taking it in or using it up!"
+    "memory_tip": "Think of 'methodology' as the 'how-to' guide or the 'recipe' for a specific task or project. It's not just one method, but the whole system of methods!"
   }
 }
