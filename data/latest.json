@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-05",
-  "word": "familiar",
+  "date": "2026-10-06",
+  "word": "note",
   "lesson": {
-    "word": "familiar",
-    "pronunciation": "fuh-MIL-ee-er",
-    "meaning": "Something or someone you know well, or recognize easily.",
+    "word": "note",
+    "pronunciation": "noht",
+    "meaning": "A short written message, a reminder, or an important point you want to remember.",
     "examples": [
-      "That face looks familiar, but I can't quite remember where I know him from.",
-      "Are you familiar with our company's new expense reporting system?",
-      "During the meeting, the CEO mentioned some familiar challenges facing the industry.",
-      "It's helpful to be familiar with the client's background before our presentation.",
-      "The project manager is very familiar with the technical details of this software."
+      "Please take a note of the key decisions made in today's meeting.",
+      "I left a quick note on your desk about the new project deadline.",
+      "He made a mental note to call the client first thing in the morning.",
+      "Could you please send a thank-you note to the guest speaker?",
+      "Please note that the office will close early next Friday."
     ],
     "synonyms": [
-      "known",
-      "recognizable",
-      "acquainted",
-      "common"
+      "message",
+      "memo",
+      "reminder",
+      "record"
     ],
-    "memory_tip": "Think of your 'family' - you know your family very well! So, 'familiar' means well-known."
+    "memory_tip": "Think of 'note' as something you write or remember so you don't forget important things!"
   }
 }
