@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-06",
-  "word": "note",
+  "date": "2026-10-07",
+  "word": "patient",
   "lesson": {
-    "word": "note",
-    "pronunciation": "noht",
-    "meaning": "A short written message, a reminder, or an important point you want to remember.",
+    "word": "patient",
+    "pronunciation": "PAY-shunt",
+    "meaning": "Able to wait calmly without getting annoyed or upset, even when things are slow or difficult.",
     "examples": [
-      "Please take a note of the key decisions made in today's meeting.",
-      "I left a quick note on your desk about the new project deadline.",
-      "He made a mental note to call the client first thing in the morning.",
-      "Could you please send a thank-you note to the guest speaker?",
-      "Please note that the office will close early next Friday."
+      "You need to be patient when learning a new software; it takes time to master.",
+      "Please be patient while our IT team resolves the network problem; it should be fixed soon.",
+      "The manager advised us to be patient with the new intern as she learns her responsibilities.",
+      "Dealing with customer complaints requires a patient and understanding approach.",
+      "Developing a successful business plan demands patient research and careful planning."
     ],
     "synonyms": [
-      "message",
-      "memo",
-      "reminder",
-      "record"
+      "tolerant",
+      "calm",
+      "steady",
+      "forbearing"
     ],
-    "memory_tip": "Think of 'note' as something you write or remember so you don't forget important things!"
+    "memory_tip": "Mama says: Remember, 'patient' is about staying 'calm' even when you have to 'wait'. If you can 'wait with a smile', you are patient!"
   }
 }
