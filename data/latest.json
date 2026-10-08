@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-07",
-  "word": "patient",
+  "date": "2026-10-08",
+  "word": "explanation",
   "lesson": {
-    "word": "patient",
-    "pronunciation": "PAY-shunt",
-    "meaning": "Able to wait calmly without getting annoyed or upset, even when things are slow or difficult.",
+    "word": "explanation",
+    "pronunciation": "eks-pluh-NAY-shun",
+    "meaning": "A set of reasons or details given to make something clear or easy to understand.",
     "examples": [
-      "You need to be patient when learning a new software; it takes time to master.",
-      "Please be patient while our IT team resolves the network problem; it should be fixed soon.",
-      "The manager advised us to be patient with the new intern as she learns her responsibilities.",
-      "Dealing with customer complaints requires a patient and understanding approach.",
-      "Developing a successful business plan demands patient research and careful planning."
+      "Could you please give me a clear explanation of how this new software works?",
+      "The manager asked for an explanation for the delay in the project.",
+      "I need a simple explanation of this complex process so I can explain it to the client.",
+      "Her explanation for missing the meeting was that her car broke down.",
+      "Sometimes, a quick visual explanation, like a diagram, is better than many words."
     ],
     "synonyms": [
-      "tolerant",
-      "calm",
-      "steady",
-      "forbearing"
+      "clarification",
+      "description",
+      "reason",
+      "account"
     ],
-    "memory_tip": "Mama says: Remember, 'patient' is about staying 'calm' even when you have to 'wait'. If you can 'wait with a smile', you are patient!"
+    "memory_tip": "Think of 'explain' – 'explanation' is when you 'explain' something to make it clear. It's the 'why' or 'how'!"
   }
 }
