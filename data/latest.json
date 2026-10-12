@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-11",
-  "word": "provision",
+  "date": "2026-10-12",
+  "word": "dependency",
   "lesson": {
-    "word": "provision",
-    "pronunciation": "pruh-VISH-uhn",
-    "meaning": "The act of supplying something needed, or a condition/arrangement made for the future.",
+    "word": "dependency",
+    "pronunciation": "dee-PEN-den-see",
+    "meaning": "When you need or rely on someone or something else to function or succeed.",
     "examples": [
-      "We need to make adequate provision for food and water during the camping trip.",
-      "The project budget includes a provision for unexpected expenses, just in case.",
-      "Our company made a special provision for employees to work remotely during the difficult period.",
-      "The new software contract has a provision that allows us to upgrade at a reduced cost next year.",
-      "During the meeting, we discussed making better provision for client feedback in our development process."
+      "Our project's timeline has a strong dependency on the client's approval.",
+      "Many small businesses have a dependency on stable internet access to operate daily.",
+      "We need to identify all external dependencies before starting the software update.",
+      "There's a mutual dependency between the sales team and the marketing team for reaching targets.",
+      "A young child's dependency on their parents is natural and complete."
     ],
     "synonyms": [
-      "supply",
-      "arrangement",
-      "preparation",
-      "stipulation"
+      "reliance",
+      "dependence",
+      "interdependence",
+      "need"
     ],
-    "memory_tip": "Think of 'provision' as the 'action' or 'result' of 'providing' something important for the future."
+    "memory_tip": "Think of 'depend' – dependency is when you *depend* on something or someone else."
   }
 }
