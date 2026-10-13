@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-12",
-  "word": "dependency",
+  "date": "2026-10-13",
+  "word": "stabilize",
   "lesson": {
-    "word": "dependency",
-    "pronunciation": "dee-PEN-den-see",
-    "meaning": "When you need or rely on someone or something else to function or succeed.",
+    "word": "stabilize",
+    "pronunciation": "STAY-buh-lize",
+    "meaning": "To make something firm, steady, or consistent; to stop it from changing or getting worse.",
     "examples": [
-      "Our project's timeline has a strong dependency on the client's approval.",
-      "Many small businesses have a dependency on stable internet access to operate daily.",
-      "We need to identify all external dependencies before starting the software update.",
-      "There's a mutual dependency between the sales team and the marketing team for reaching targets.",
-      "A young child's dependency on their parents is natural and complete."
+      "We need to stabilize the project timeline before we can promise a delivery date.",
+      "The central bank is working to stabilize the currency's value.",
+      "After the initial shock, the team managed to stabilize the client relationship.",
+      "Regular maintenance helps to stabilize the performance of our software system.",
+      "Taking deep breaths can help you stabilize your emotions during a stressful meeting."
     ],
     "synonyms": [
-      "reliance",
-      "dependence",
-      "interdependence",
-      "need"
+      "steady",
+      "balance",
+      "firm up",
+      "settle"
     ],
-    "memory_tip": "Think of 'depend' – dependency is when you *depend* on something or someone else."
+    "memory_tip": "Think of a 'stable' table – it doesn't wobble! To stabilize something means to make it equally steady and firm."
   }
 }
