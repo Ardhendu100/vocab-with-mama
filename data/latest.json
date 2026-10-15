@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-14",
-  "word": "negotiate",
+  "date": "2026-10-15",
+  "word": "instance",
   "lesson": {
-    "word": "negotiate",
-    "pronunciation": "nee-GOH-shee-ayt",
-    "meaning": "To discuss something formally to reach an agreement or a solution.",
+    "word": "instance",
+    "pronunciation": "IN-stans",
+    "meaning": "A particular example or a single occurrence of something.",
     "examples": [
-      "We need to negotiate a better price with our supplier for the new order.",
-      "It's important to negotiate your salary when you receive a job offer.",
-      "My kids always try to negotiate extra time for playing video games.",
-      "The manager decided to negotiate directly with the client to resolve the issue.",
-      "The two teams will meet next week to negotiate the terms of the new partnership."
+      "In this instance, we decided to postpone the meeting until next week.",
+      "Can you give me a specific instance where this new process failed?",
+      "For instance, if a client calls with an urgent request, we prioritize it immediately.",
+      "I've seen many instances where clear communication prevented misunderstandings.",
+      "This is a perfect instance of teamwork leading to a great result."
     ],
     "synonyms": [
-      "discuss",
-      "bargain",
-      "settle",
-      "deal"
+      "example",
+      "case",
+      "occurrence",
+      "situation"
     ],
-    "memory_tip": "Remember, when you 'negotiate', you're talking things through to find a solution or agreement that works for everyone!"
+    "memory_tip": "Think of 'instance' as a specific 'example' or a 'moment' when something happens. 'For instance' means 'for example'."
   }
 }

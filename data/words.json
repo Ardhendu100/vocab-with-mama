@@ -63,6 +63,7 @@
     "provision",
     "dependency",
     "stabilize",
-    "negotiate"
+    "negotiate",
+    "instance"
   ]
 }
