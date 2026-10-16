@@ -64,6 +64,7 @@
     "dependency",
     "stabilize",
     "negotiate",
-    "instance"
+    "instance",
+    "occasional"
   ]
 }

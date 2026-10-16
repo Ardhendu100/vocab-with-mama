@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-15",
-  "word": "instance",
+  "date": "2026-10-16",
+  "word": "occasional",
   "lesson": {
-    "word": "instance",
-    "pronunciation": "IN-stans",
-    "meaning": "A particular example or a single occurrence of something.",
+    "word": "occasional",
+    "pronunciation": "o-KAY-zhuh-nul",
+    "meaning": "Happening sometimes, but not regularly or often.",
     "examples": [
-      "In this instance, we decided to postpone the meeting until next week.",
-      "Can you give me a specific instance where this new process failed?",
-      "For instance, if a client calls with an urgent request, we prioritize it immediately.",
-      "I've seen many instances where clear communication prevented misunderstandings.",
-      "This is a perfect instance of teamwork leading to a great result."
+      "We enjoy an occasional weekend trip to the mountains when we have time.",
+      "There might be an occasional need for overtime during peak season, but it's not common.",
+      "During the meeting, there were occasional technical glitches with the presentation software.",
+      "I have occasional calls with my mentor to discuss my career path.",
+      "Our team offers occasional workshops to help employees develop new skills."
     ],
     "synonyms": [
-      "example",
-      "case",
-      "occurrence",
-      "situation"
+      "sometimes",
+      "infrequent",
+      "sporadic",
+      "periodic"
     ],
-    "memory_tip": "Think of 'instance' as a specific 'example' or a 'moment' when something happens. 'For instance' means 'for example'."
+    "memory_tip": "Think of 'occasional' as something that happens 'on occasion' – not all the time, just once in a while!"
   }
 }
