@@ -65,6 +65,7 @@
     "stabilize",
     "negotiate",
     "instance",
-    "occasional"
+    "occasional",
+    "informative"
   ]
 }
