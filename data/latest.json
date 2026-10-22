@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-21",
-  "word": "complaint",
+  "date": "2026-10-22",
+  "word": "summarize",
   "lesson": {
-    "word": "complaint",
-    "pronunciation": "kuhm-PLAYNT",
-    "meaning": "A statement saying that you are unhappy or not satisfied with something or someone.",
+    "word": "summarize",
+    "pronunciation": "SUM-uh-rize",
+    "meaning": "To give the main points of something in a short and concise way.",
     "examples": [
-      "I need to file a complaint about the faulty product I received.",
-      "The manager received several complaints about the slow internet speed in the office.",
-      "Do you have any complaints regarding the new project timeline?",
-      "She made a formal complaint to HR about the discrimination she faced.",
-      "His only complaint was that the meeting started late."
+      "Could you please summarize the key points of the presentation for me?",
+      "Before we finish, I'd like to summarize our decisions from today's meeting.",
+      "The manager asked me to summarize the long report into a one-page executive summary.",
+      "When you read a book, it's helpful to summarize each chapter to remember the content better.",
+      "I will quickly summarize the client's feedback so everyone understands the main concerns."
     ],
     "synonyms": [
-      "Grievance",
-      "Objection",
-      "Criticism",
-      "Protest"
+      "condense",
+      "recap",
+      "brief",
+      "outline"
     ],
-    "memory_tip": "Remember, a 'complaint' is about expressing dissatisfaction. Try to state your complaint clearly and calmly to be heard effectively!"
+    "memory_tip": "Remember, when you 'summarize', you're making a long story short and sweet, just like Mama likes her explanations!"
   }
 }
