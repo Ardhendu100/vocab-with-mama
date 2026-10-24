@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-23",
-  "word": "assemble",
+  "date": "2026-10-24",
+  "word": "habit",
   "lesson": {
-    "word": "assemble",
-    "pronunciation": "uh-SEM-bul",
-    "meaning": "To bring people or things together, or to put parts together to make something whole.",
+    "word": "habit",
+    "pronunciation": "HA-bit",
+    "meaning": "A regular tendency or practice, especially one that is hard to give up.",
     "examples": [
-      "Please assemble in the main conference room at 10 AM for the team meeting.",
-      "We need to assemble the new office chairs before the end of the day.",
-      "The project manager asked us to assemble all the data for the quarterly report.",
-      "It took me an hour to assemble the new bookshelf from the flat-pack box.",
-      "The CEO will assemble a special task force to address the urgent issue."
+      "Waking up early has become a good habit for me, helping me start my day productively.",
+      "Checking emails constantly during a meeting is a bad habit that can distract others.",
+      "To improve our team's efficiency, we need to form the habit of documenting all project decisions.",
+      "I'm trying to break the habit of procrastinating on important tasks, especially at work.",
+      "Developing a habit of daily learning can significantly boost your career growth over time."
     ],
     "synonyms": [
-      "gather",
-      "collect",
-      "construct",
-      "convene"
+      "routine",
+      "custom",
+      "practice",
+      "tendency"
     ],
-    "memory_tip": "Mama's Tip: Think of an 'assembly line' in a factory, where all the small parts come together to build one complete product!"
+    "memory_tip": "Remember, good habits are like building blocks for success, and bad habits are like speed bumps. Choose your habits wisely!"
   }
 }
