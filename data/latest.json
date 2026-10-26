@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-25",
-  "word": "construct",
+  "date": "2026-10-26",
+  "word": "derive",
   "lesson": {
-    "word": "construct",
-    "pronunciation": "kun-STRUCT",
-    "meaning": "To build or create something, often in a careful and planned way.",
+    "word": "derive",
+    "pronunciation": "dee-RIVE",
+    "meaning": "To get something from a specific source, or to understand something by reasoning.",
     "examples": [
-      "The team needs to construct a detailed project plan by next week.",
-      "They are planning to construct a new office building on this site.",
-      "During the meeting, we will construct a strategy to improve customer satisfaction.",
-      "It's important to construct your arguments carefully when presenting to senior management.",
-      "Children often construct amazing things with building blocks."
+      "We can derive a lot of useful data from this customer feedback survey.",
+      "Many English words derive from Latin or Greek roots.",
+      "She derives great satisfaction from helping her team succeed.",
+      "Before making a decision, we need to derive the key insights from the report.",
+      "The company hopes to derive significant profits from its new product line."
     ],
     "synonyms": [
-      "build",
-      "create",
-      "form",
-      "develop"
+      "obtain",
+      "get",
+      "gain",
+      "extract"
     ],
-    "memory_tip": "Think of 'construct' like a construction worker carefully building something brick by brick, whether it's a house or an idea!"
+    "memory_tip": "Mama's Tip: Think of 'derive' as 'D-RIVE' – you 'drive' to a source to 'get' what you need!"
   }
 }
