@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-29",
-  "word": "resource",
+  "date": "2026-10-30",
+  "word": "comparison",
   "lesson": {
-    "word": "resource",
-    "pronunciation": "REE-sors",
-    "meaning": "Something that is available and can be used to help you achieve a goal, solve a problem, or complete a task. It can be a person, a skill, a material, or money.",
+    "word": "comparison",
+    "pronunciation": "kuhm-PAIR-uh-sun",
+    "meaning": "The act of looking at two or more things to find out how they are similar or different.",
     "examples": [
-      "The internet is a wonderful resource for learning new things every day.",
-      "Our company's HR department is an excellent resource for employee benefits information.",
-      "During the meeting, we discussed how to allocate our limited resources for the new project.",
-      "We need to find more financial resources if we want to expand our business next year.",
-      "Don't hesitate to use your colleagues as a resource if you get stuck on a problem."
+      "We need to make a careful comparison of the two project proposals before deciding.",
+      "There's no comparison; the quality of this new product is far superior.",
+      "For a fair comparison, we should test both options under the same conditions.",
+      "She often makes a comparison between her current role and her previous one.",
+      "In comparison to last year, our team's performance has shown great improvement."
     ],
     "synonyms": [
-      "asset",
-      "supply",
-      "source",
-      "means"
+      "contrast",
+      "analogy",
+      "differentiation",
+      "likeness"
     ],
-    "memory_tip": "Think of 're-use' and 'source'. A resource is a 'source' you can 're-use' or repeatedly use to get what you need!"
+    "memory_tip": "Mama's Tip: Think of 'comparison' like putting two photos next to each other to spot what's the same and what's different. You're just looking closely!"
   }
 }
