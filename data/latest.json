@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-31",
-  "word": "acquire",
+  "date": "2026-11-01",
+  "word": "function",
   "lesson": {
-    "word": "acquire",
-    "pronunciation": "uh-KWY-er",
-    "meaning": "To get or obtain something, often by effort, skill, or purchase.",
+    "word": "function",
+    "pronunciation": "FUNG-shun",
+    "meaning": "The special purpose or job of someone or something, or how something works.",
     "examples": [
-      "It's essential to acquire new skills to stay competitive in today's job market.",
-      "Our company is looking to acquire a new office building in the city center.",
-      "Through consistent practice, you can acquire a good command of English.",
-      "The team needs to acquire more data before presenting their final proposal.",
-      "She hopes to acquire enough experience to lead her own department soon."
+      "The main function of this new software is to automate data entry.",
+      "What is the function of the HR department in our company?",
+      "My laptop's cooling fan isn't functioning properly, it's making a strange noise.",
+      "We need to clearly define the function of each team member in this project.",
+      "The company organized a formal function to celebrate its 10th anniversary."
     ],
     "synonyms": [
-      "obtain",
-      "gain",
-      "get",
-      "procure"
+      "Purpose",
+      "Role",
+      "Duty",
+      "Operation"
     ],
-    "memory_tip": "Think of 'acquire' as 'getting' something important or needing a bit of effort, like acquiring a new skill or a big company!"
+    "memory_tip": "Mama says: Think of 'function' as 'what something does' or 'what it's for!'"
   }
 }
