@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-01",
-  "word": "function",
+  "date": "2026-11-02",
+  "word": "emotion",
   "lesson": {
-    "word": "function",
-    "pronunciation": "FUNG-shun",
-    "meaning": "The special purpose or job of someone or something, or how something works.",
+    "word": "emotion",
+    "pronunciation": "ee-MOH-shun",
+    "meaning": "A strong feeling such as happiness, sadness, anger, or fear.",
     "examples": [
-      "The main function of this new software is to automate data entry.",
-      "What is the function of the HR department in our company?",
-      "My laptop's cooling fan isn't functioning properly, it's making a strange noise.",
-      "We need to clearly define the function of each team member in this project.",
-      "The company organized a formal function to celebrate its 10th anniversary."
+      "It's important to understand your own emotions to manage stress effectively.",
+      "During the negotiation, he tried to keep his emotions in check and focus on the facts.",
+      "Sharing your emotions openly can help build stronger team relationships.",
+      "Her presentation conveyed a lot of emotion, making it very impactful.",
+      "We need to approach this sensitive topic without letting personal emotions cloud our judgment."
     ],
     "synonyms": [
-      "Purpose",
-      "Role",
-      "Duty",
-      "Operation"
+      "feeling",
+      "sentiment",
+      "passion",
+      "mood"
     ],
-    "memory_tip": "Mama says: Think of 'function' as 'what something does' or 'what it's for!'"
+    "memory_tip": "Remember, 'emotion' is like a river of feelings – sometimes calm, sometimes strong. Learn to navigate it!"
   }
 }
