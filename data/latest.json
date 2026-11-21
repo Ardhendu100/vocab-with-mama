@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-20",
-  "word": "careful",
+  "date": "2026-11-21",
+  "word": "hierarchy",
   "lesson": {
-    "word": "careful",
-    "pronunciation": "KAIR-full",
-    "meaning": "Paying close attention to avoid mistakes, danger, or harm.",
+    "word": "hierarchy",
+    "pronunciation": "HIGH-uh-rar-kee",
+    "meaning": "A system where people or things are arranged in levels of importance or authority, from highest to lowest.",
     "examples": [
-      "Please be careful when you carry those glass items; they are fragile.",
-      "We need to be very careful with the budget numbers before we present them to the CEO.",
-      "During the client meeting, let's be careful to listen to their needs before offering solutions.",
-      "It's important to be careful with your words when giving feedback to a colleague.",
-      "Always be careful when driving in the rain, as the roads can be slippery."
+      "In our company, there's a clear hierarchy, so we know who to report to for different tasks.",
+      "Even in a flat organization, some form of hierarchy usually exists for decision-making.",
+      "He's trying to move up the corporate hierarchy to a senior management position.",
+      "Understanding the hierarchy in a new team helps you know who to approach for specific approvals.",
+      "The project manager sits at the top of the project hierarchy, overseeing all the team leads."
     ],
     "synonyms": [
-      "cautious",
-      "attentive",
-      "prudent",
-      "watchful"
+      "structure",
+      "ranking",
+      "chain of command",
+      "pecking order"
     ],
-    "memory_tip": "Think of 'care' + 'full'. When you are full of care, you are careful!"
+    "memory_tip": "Think of 'hierarchy' like a ladder or a set of stairs – some people are higher up, and some are lower down, each with their own role!"
   }
 }
