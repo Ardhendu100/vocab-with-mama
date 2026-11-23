@@ -1,23 +1,23 @@
 {
-  "date": "2026-11-22",
-  "word": "correct",
+  "date": "2026-11-23",
+  "word": "exclude",
   "lesson": {
-    "word": "correct",
-    "pronunciation": "kuh-REKT",
-    "meaning": "To make something right, or something that is true and without mistakes.",
+    "word": "exclude",
+    "pronunciation": "ex-KLOOD",
+    "meaning": "To prevent someone or something from being part of a group, activity, or place.",
     "examples": [
-      "Please correct my report before I send it to the client.",
-      "Is this the correct way to fill out this form?",
-      "I believe your answer is correct, but let's review it once more.",
-      "If I make a mistake during my presentation, please feel free to correct me.",
-      "The team worked hard to ensure all the figures in the budget were correct."
+      "Please make sure we don't exclude anyone from the team meeting invitation.",
+      "The new project scope will exclude tasks that are not directly related to our main goal.",
+      "We need to exclude any personal bias when evaluating job candidates.",
+      "It's important not to exclude different perspectives when making a big decision.",
+      "The software update will exclude older operating systems, so check your compatibility."
     ],
     "synonyms": [
-      "right",
-      "accurate",
-      "proper",
-      "fix"
+      "omit",
+      "leave out",
+      "shut out",
+      "bar"
     ],
-    "memory_tip": "Think of 'correct' as making sure everything is just 'RIGHT' – no errors!"
+    "memory_tip": "Think of 'EX' in 'exclude' like 'exit'. When you exclude something, you're essentially showing it the 'exit door' from a group or situation."
   }
 }

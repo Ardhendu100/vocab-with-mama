@@ -102,6 +102,7 @@
     "sustain",
     "careful",
     "hierarchy",
-    "correct"
+    "correct",
+    "exclude"
   ]
 }
