@@ -1,23 +1,22 @@
 {
-  "date": "2026-11-23",
-  "word": "exclude",
+  "date": "2026-11-24",
+  "word": "deadline",
   "lesson": {
-    "word": "exclude",
-    "pronunciation": "ex-KLOOD",
-    "meaning": "To prevent someone or something from being part of a group, activity, or place.",
+    "word": "deadline",
+    "pronunciation": "DED-line",
+    "meaning": "The final date or time by which a task or project must be completed or submitted.",
     "examples": [
-      "Please make sure we don't exclude anyone from the team meeting invitation.",
-      "The new project scope will exclude tasks that are not directly related to our main goal.",
-      "We need to exclude any personal bias when evaluating job candidates.",
-      "It's important not to exclude different perspectives when making a big decision.",
-      "The software update will exclude older operating systems, so check your compatibility."
+      "The deadline for submitting your project proposal is next Friday.",
+      "We have a tight deadline for this report, so let's focus on finishing it today.",
+      "Could we ask for an extension on the deadline for the marketing campaign?",
+      "Please remember the deadline for paying your electricity bill is tomorrow.",
+      "Missing the deadline means we won't be able to present our ideas at the conference."
     ],
     "synonyms": [
-      "omit",
-      "leave out",
-      "shut out",
-      "bar"
+      "Due date",
+      "Completion date",
+      "Cut-off time"
     ],
-    "memory_tip": "Think of 'EX' in 'exclude' like 'exit'. When you exclude something, you're essentially showing it the 'exit door' from a group or situation."
+    "memory_tip": "Think of 'deadline' as a 'finish line' for your tasks. It's the point you must reach to complete something on time!"
   }
 }
