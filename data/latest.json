@@ -1,22 +1,23 @@
 {
-  "date": "2026-11-24",
-  "word": "deadline",
+  "date": "2026-11-25",
+  "word": "responsible",
   "lesson": {
-    "word": "deadline",
-    "pronunciation": "DED-line",
-    "meaning": "The final date or time by which a task or project must be completed or submitted.",
+    "word": "responsible",
+    "pronunciation": "ree-SPON-sih-bul",
+    "meaning": "Having the duty to take care of something or someone, or being the cause of something.",
     "examples": [
-      "The deadline for submitting your project proposal is next Friday.",
-      "We have a tight deadline for this report, so let's focus on finishing it today.",
-      "Could we ask for an extension on the deadline for the marketing campaign?",
-      "Please remember the deadline for paying your electricity bill is tomorrow.",
-      "Missing the deadline means we won't be able to present our ideas at the conference."
+      "Who is responsible for managing the project budget this quarter?",
+      "As a team member, you are responsible for completing your tasks on time.",
+      "Parents are responsible for teaching their children good manners.",
+      "The system error was ultimately responsible for the data loss.",
+      "I feel responsible for making sure our meeting runs smoothly today."
     ],
     "synonyms": [
-      "Due date",
-      "Completion date",
-      "Cut-off time"
+      "Accountable",
+      "In charge",
+      "Reliable",
+      "Trustworthy"
     ],
-    "memory_tip": "Think of 'deadline' as a 'finish line' for your tasks. It's the point you must reach to complete something on time!"
+    "memory_tip": "Mama says: Think of the 'R' in 'responsible' as 'Reliable' – someone who can be trusted to do what's right!"
   }
 }

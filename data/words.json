@@ -104,6 +104,7 @@
     "hierarchy",
     "correct",
     "exclude",
-    "deadline"
+    "deadline",
+    "responsible"
   ]
 }
