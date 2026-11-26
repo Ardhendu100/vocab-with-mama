@@ -105,6 +105,7 @@
     "correct",
     "exclude",
     "deadline",
-    "responsible"
+    "responsible",
+    "intention"
   ]
 }
